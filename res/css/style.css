@@ -1,0 +1,262 @@
+
+body{
+    background: url(../img/mainMenu.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+#menu{
+
+margin-left: 15em;
+margin-top: 15em;
+
+}
+.menub {
+
+    height: 50px;
+    align-items: center;
+    font-size: 30px;
+    max-width: 380px;
+     width: 100%;
+     display: block;
+     margin-top: 2em;
+
+}
+
+#quest1{
+    display: none;
+    height: 300px;
+    width: 1300px;
+    border: 5px solid rgb(221, 178, 99);
+    background-color: wheat;
+    position: absolute;
+    margin-left: 15%;
+    margin-top: 20%;
+}
+
+#text1{
+    flex:9;
+}
+
+p{
+    text-align: center;
+    font-size: 24px;
+}
+
+#panel{
+    display: none;
+    border: solid 5px rgb(221, 178, 99);
+    background-color: wheat;
+    position: absolute;
+    margin-left: 15%;
+    margin-top: 20%;
+    height: 320px;
+    width: 1300px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.question-container{
+    margin: 10px;
+    padding: 5px;
+    height: 10vh;
+    font-size: 10px;
+    text-align: center;
+      
+}
+
+.option-container{
+    display: flex;
+    justify-content: space-around; 
+    margin: 10px;
+    padding: 20px;
+    width: 70vw;
+    height: 10vh;   
+        
+}
+
+.option{    
+    padding: 10px;
+    width: 15vw;
+    height: 10vh;
+    font-size: 20px;
+}
+
+.option:hover{
+    background-color: rgb(204, 90, 90);
+    color: white;
+}
+#navigation{
+    width: 80vw;
+    height: 10vh;
+    margin: 10px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+#next{
+    width: 200px;
+}
+#next:hover{
+    background-color: rgb(204, 90, 90);
+    color: white;
+}
+#result{
+    margin: 10px;
+    padding: 5px;
+    width:80vw;
+    height: 10vh;
+    text-align: center;
+    font-size: 50px;
+      
+}
+
+
+
+#lore{
+    display: none;
+    height: 200px;
+    width: 1300px;
+    border: 5px solid rgb(221, 178, 99);
+    background-color: wheat;
+    position: absolute;
+    margin-left: 15%;
+    margin-top: 20%;
+}
+
+#creds{
+    display: none;
+    height: 200px;
+    width: 1300px;
+    border: 5px solid rgb(221, 178, 99);
+    background-color: wheat;
+    position: absolute;
+    margin-left: 15%;
+    margin-top: 20%;
+    text-align: center;
+}
+
+#quest2{
+    display: none;
+    height: 300px;
+    width: 1300px;
+    border: 5px solid rgb(221, 178, 99);
+    background-color: wheat;
+    position: absolute;
+    margin-left: 15%;
+    margin-top: 20%;
+}
+
+#text2{
+    flex:9;
+}
+
+#quest3{
+    display: none;
+    height: 300px;
+    width: 1300px;
+    border: 5px solid rgb(221, 178, 99);
+    background-color: wheat;
+    position: absolute;
+    margin-left: 15%;
+    margin-top: 20%;
+}
+
+#text3{
+    flex:9;
+}
+
+#quest4{
+    display: none;
+    height: 300px;
+    width: 1300px;
+    border: 5px solid rgb(221, 178, 99);
+    background-color: wheat;
+    position: absolute;
+    margin-left: 15%;
+    margin-top: 20%;
+}
+
+#text4{
+    flex:9;
+}
+
+#quest5{
+    display: none;
+    height: 300px;
+    width: 1300px;
+    border: 5px solid rgb(221, 178, 99);
+    background-color: wheat;
+    position: absolute;
+    margin-left: 15%;
+    margin-top: 20%;
+}
+
+#text5{
+    flex:9;
+}
+
+#quest6{
+    display: none;
+    height: 300px;
+    width: 1300px;
+    border: 5px solid rgb(221, 178, 99);
+    background-color: wheat;
+    position: absolute;
+    margin-left: 15%;
+    margin-top: 20%;
+}
+
+#text6{
+    flex:9;
+}
+
+#quest7{
+    display: none;
+    height: 300px;
+    width: 1300px;
+    border: 5px solid rgb(221, 178, 99);
+    background-color: wheat;
+    position: absolute;
+    margin-left: 15%;
+    margin-top: 20%;
+}
+
+#text7{
+    flex:9;
+}
+
+#quest8{
+    display: none;
+    height: 300px;
+    width: 1300px;
+    border: 5px solid rgb(221, 178, 99);
+    background-color: wheat;
+    position: absolute;
+    margin-left: 15%;
+    margin-top: 20%;
+}
+
+#text8{
+    flex:9;
+}
+
+#quest9{
+    display: none;
+    height: 300px;
+    width: 1300px;
+    border: 5px solid rgb(221, 178, 99);
+    background-color: wheat;
+    position: absolute;
+    margin-left: 15%;
+    margin-top: 20%;
+}
+
+#text9{
+    flex:9;
+}
