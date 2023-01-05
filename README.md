@@ -1,2 +1,2 @@
 # Zdenda0
-[View](https://CrazyGuyExe.github.io/Zdenda0)
+[View](https://crazyguyexe.github.io/Zdenda0/)
